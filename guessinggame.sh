@@ -25,4 +25,3 @@ done
 
 echo "You got it right!"
 echo "The number of files was $filenumber"
-ls -1
